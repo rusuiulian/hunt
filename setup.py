@@ -43,7 +43,7 @@ setup(
     #maintainer_email='',
     url='http://code.google.com/p/pywumpus/',
     description='Hunt the Wumpus (1972) Python translation.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     platforms=['OS Independent'],
     download_url='http://code.google.com/p/pywumpus/downloads/list',
     license="GNU General Public License",
