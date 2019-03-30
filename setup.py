@@ -30,7 +30,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 """
 
 import sys
-if sys.version_info < (3, 0):
+if sys.version_info < (2, 0):
     raise Exception("pyzombie requires Python 3.0 or higher.")
 from distutils.core import setup
 
